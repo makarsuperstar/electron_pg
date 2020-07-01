@@ -1,6 +1,6 @@
 # electron_pg 
 ### ElectronJS application for transfer data between tables in PostgreSQL
-
+stream video https://www.youtube.com/playlist?list=PLg9zqfMiDN2ia3SV1HOx3eTfgHAc5Nq5e
 > An electron-vue project
 
 #### Build Setup
